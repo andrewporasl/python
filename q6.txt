@@ -1,0 +1,3 @@
+1. No, in increment_int_a someval += 1 creates a new int object 33, but a still refers to 32 after the function ends
+2. Yes, since someval['32'] is a dictionary, the function changes the variable
+3. Because integers are immutable in python, while the next was a dictionary that was modified.

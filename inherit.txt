@@ -1,0 +1,8 @@
+1. Shared Code
+
+    - You can put shared code in a parent class.
+    - E.g: One shared animal class for dog, cat, etc.
+
+2. Polymorphism
+    - You can use the subclasses of a parent class to be treated as objects of said parent class.
+    - Meaning you can override methods, make specific methods, or use the parent class methods.
